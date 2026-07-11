@@ -63,7 +63,7 @@ Precision, recall y F1 por clase, exactitud global, Recall@k y Precision@k del c
 
 ## Video
 
-Enlace al video de exposicion: PENDIENTE
+Enlace al video de exposicion: [LINK_VIDEO](https://drive.google.com/drive/folders/1hHRipZ2smigj6N6ICogzDBXt3qSV2JKJ?usp=sharing)
 
 ## Limitaciones
 
