@@ -1,0 +1,10 @@
+estrategia,f1_contradiccion,resultado
+sistema_propuesto_top1_sin_modificaciones,0.207,referencia
+chunking_articulos_largos,0.2,sin mejora
+agregacion_top3_maximo_por_clase,0.12,empeora
+agregacion_top5_maximo_por_clase,0.103,empeora
+agregacion_top3_mejor_candidato,0.104,empeora
+agregacion_top5_mejor_candidato,0.186,empeora
+reranking_bge_reranker_v2_m3,0.175,empeora
+reranking_ms_marco_minilm,0.175,empeora
+reranking_jina_multilingual,0.185,empeora

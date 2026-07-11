@@ -1,0 +1,5 @@
+configuracion,precision,recall,f1_contradiccion,accuracy,ic95_bajo,ic95_alto
+1_linea_base_coseno,0.0,0.0,0.0,0.472,0.0,0.0
+2_nli_par_correcto,0.273,0.2,0.231,0.472,0.083,0.392
+3_rag_denso_nli,0.125,0.133,0.129,0.423,0.031,0.246
+4_rag_hibrido_nli,0.214,0.2,0.207,0.423,0.071,0.346
